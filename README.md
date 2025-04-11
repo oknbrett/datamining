@@ -1,6 +1,6 @@
 # datamining
 
-##Here you can find the link to the meeting
+##Here you can find the link to the videos
 
 Extra model 1: Neural Network https://teams.microsoft.com/l/meetingrecap?driveId=b%21HK9x6ZtgGkKfAH0MrIgvX3SsC4NvumNDr46WtF0zQxDhsFvVd3bgTYIrT7aimXj7&driveItemId=01OGLASGRO2OVUE6MGABE2RIY3GE3FOUAN&sitePath=https%3A%2F%2Fhannl-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fkn_ong_student_han_nl%2FES7Tq0J5hgBJqKMbMTZXUA0BqA6RDNZrv9fu9ZNd5ZXyRw&fileUrl=https%3A%2F%2Fhannl-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fkn_ong_student_han_nl%2FES7Tq0J5hgBJqKMbMTZXUA0BqA6RDNZrv9fu9ZNd5ZXyRw&threadId=19%3A3e4cba00-c221-4316-84bf-5cd21e8ab0f7_75ebba36-29ce-4051-b5e0-3e3b1a79719a%40unq.gbl.spaces&callId=0c3f1ffa-2af1-47a1-8294-d8023265c12b&threadType=OneOnOneChat&meetingType=Unknown&subType=RecapSharingLink_RecapChiclet
 
